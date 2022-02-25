@@ -9,3 +9,4 @@ answer = list(map(lambda x:x[1] ,sorted(array)))
 
 for i in answer:
   print(i)
+array.sort()
